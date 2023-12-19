@@ -31,10 +31,10 @@ public class MedjCalcu {
         System.out.println("The total of the first and second number: " + c);
 
         scanner.close(); // Remember to close the scanner when done using it.
-*/
+
     }
 }
-
+*/
 	}
 
 }
