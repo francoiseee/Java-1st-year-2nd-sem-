@@ -1,4 +1,4 @@
-class coise {
+class pracWhile {
     public static void main(String[] args) {
 
         int i;
